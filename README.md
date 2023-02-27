@@ -7,7 +7,7 @@
 * RAM: 16G * 2
 * Boot SSD: SN770
 * Graphics: RX5600XT
-* WIFI/Bluetooth: 943602CS PCIE-Mini
+* WIFI/Bluetooth: 943602CS PCIE-MINI
 
 
 ## BIOS
