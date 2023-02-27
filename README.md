@@ -1,8 +1,8 @@
-# B760M_Mortar_Hackintosh
+# B760M_MORTAR_Hackintosh
 
 ## Hardware
 
-* Mainboard: MSI B760M Mortar
+* Mainboard: MSI B760M MORTAR
 * CPU: 13700F
 * RAM: 16G * 2
 * Boot SSD: SN770
