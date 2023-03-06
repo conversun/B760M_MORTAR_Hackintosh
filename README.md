@@ -14,3 +14,7 @@
 
 * Enable D.T.M
 * Disable Secure Boot
+
+
+## Others
+* Reproduction is prohibited, e.g. imacosx.cn
