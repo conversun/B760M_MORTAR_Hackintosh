@@ -1,5 +1,6 @@
 # B760M_MORTAR_Hackintosh
 
+
 ## Hardware
 
 * Mainboard: MSI B760M MORTAR
@@ -18,3 +19,8 @@
 
 ## Others
 * Reproduction is prohibited, e.g. imacosx.cn
+
+
+## Image
+
+![GNAQaW](https://img.trackcloud.top/uPic/eIfChf.jpeg)
