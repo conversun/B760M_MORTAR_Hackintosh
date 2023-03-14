@@ -16,6 +16,8 @@
 * Enable D.T.M
 * Disable Secure Boot
 
+![93L6Mx](https://img.trackcloud.top/uPic/93L6Mx.png)
+
 
 ## Others
 * Reproduction is prohibited, e.g. imacosx.cn
