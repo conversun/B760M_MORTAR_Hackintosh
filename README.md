@@ -16,7 +16,7 @@
 * Enable D.T.M
 * Disable Secure Boot
 
-![93L6Mx](https://img.trackcloud.top/uPic/93L6Mx.png)
+![3ld5vZ](https://img.trackcloud.top/uPic/3ld5vZ.png)
 
 
 ## Others
