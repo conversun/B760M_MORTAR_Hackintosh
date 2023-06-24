@@ -1,4 +1,4 @@
-# B760M_MORTAR_Hackintosh
+# [MAG B760M MORTAR DDR4](https://www.msi.com/Motherboard/MAG-B760M-MORTAR-DDR4)
 
 
 ## Hardware
