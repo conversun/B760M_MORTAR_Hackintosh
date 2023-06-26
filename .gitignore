@@ -3,3 +3,9 @@ APPLE
 /**/._*
 Microsoft
 /OC/Tools
+.DS_Store
+._*
+*.empty
+*.iml
+.idea
+.vscode
