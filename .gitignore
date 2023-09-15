@@ -6,6 +6,7 @@ Microsoft
 .DS_Store
 ._*
 *.empty
+oldConfig.plist
 *.iml
 .idea
 .vscode
