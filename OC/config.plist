@@ -511,7 +511,11 @@
         <key>Misc</key>
         <dict>
             <key>BlessOverride</key>
-            <array/>
+            <array>
+                <string>\EFI\arch\grubx64.efi</string>
+                <string>\EFI\ubuntu\grubx64.efi</string>
+                <string>\EFI\systemd\systemd\systemd-bootx64.efi</string>
+            </array>
             <key>Boot</key>
             <dict>
                 <key>ConsoleAttributes</key>
