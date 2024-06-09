@@ -515,6 +515,7 @@
             <key>BlessOverride</key>
             <array>
                 <string>\EFI\arch\grubx64.efi</string>
+                <string>\EFI\debian\grubx64.efi</string>
                 <string>\EFI\ubuntu\grubx64.efi</string>
                 <string>\EFI\systemd\systemd\systemd-bootx64.efi</string>
             </array>
