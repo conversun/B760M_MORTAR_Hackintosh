@@ -598,7 +598,7 @@
                 <key>ScanPolicy</key>
                 <integer>0</integer>
                 <key>SecureBootModel</key>
-                <string>j160</string>
+                <string>Disabled</string>
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
@@ -656,6 +656,8 @@
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
                     <string>7A682D48616E733A323532</string>
+                    <key>revpatch</key>
+                    <string>sbvmm</string>
                 </dict>
             </dict>
             <key>Delete</key>
